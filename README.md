@@ -1,1 +1,1 @@
-# veri-taban-y-netim-sistemi-1hafta-dev
+# veri-taban-y-netim-sistemi-1hafta-ödev
